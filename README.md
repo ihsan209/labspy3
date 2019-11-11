@@ -43,5 +43,3 @@ Lalu hitung total dengan menggunakan perintah "total = b+b+c+c+d+d+d+e"
 Lalu masukan perintah "print("total:",total)" untuk melihat hasil total Laba.
 ![Screenshot (71)](https://user-images.githubusercontent.com/56963373/68519588-7bacf700-02c4-11ea-89a6-036c31e03353.png
 
-FLOWCHART LATIHAN 1
-![Screenshot (72)](https://user-images.githubusercontent.com/56963373/68519594-86678c00-02c4-11ea-8711-4ab36afaccac.png)
