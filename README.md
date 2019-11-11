@@ -41,5 +41,5 @@ Gunakan perintah dibawah ini untuk menghitung laba di bulan kedelapan, if(i==8):
 Lalu hitung total dengan menggunakan perintah "total = b+b+c+c+d+d+d+e"
 
 Lalu masukan perintah "print("total:",total)" untuk melihat hasil total Laba.
-![Screenshot (71)](https://user-images.githubusercontent.com/56963373/68519588-7bacf700-02c4-11ea-89a6-036c31e03353.png
+![Screenshot (71)](https://user-images.githubusercontent.com/56963373/68519588-7bacf700-02c4-11ea-89a6-036c31e03353.png)
 
